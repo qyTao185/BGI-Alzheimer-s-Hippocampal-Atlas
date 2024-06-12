@@ -8,4 +8,5 @@ We employed advanced high-resolution Stereo-seq, combined with single-nucleus se
 Stereo-seq data：16chips(AD: 4 smaples; Control: 4 smaples;  Two consecutive slices per sample )
 
 Single-nucleus RNA sequencing data 
+
 All raw data have been deposited to CNGB Nucleotide Sequence Archive (accession code: CNP0005077, https://db.cngb.org/search/project/CNP0005077/) and are publicly available as of the date of publication. Accession numbers are listed in the key resources table. 
