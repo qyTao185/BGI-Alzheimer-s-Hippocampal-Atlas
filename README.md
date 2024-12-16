@@ -9,4 +9,5 @@ Stereo-seq data：32chips(AD: 8 smaples; Control: 8 smaples;  Two consecutive sl
 
 Single-nucleus RNA sequencing data 
 
-All raw data have been deposited to CNGB Nucleotide Sequence Archive (accession code: CNP0005077, https://db.cngb.org/search/project/CNP0005077/) and are publicly available as of the date of publication. Accession numbers are listed in the key resources table. 
+All raw data have been deposited to CNGB Nucleotide Sequence Archive (accession code: CNP0005077, https://db.cngb.org/search/project/CNP0005077/) and are publicly available as of the date of publication. Accession numbers are listed in the key resources table.
+Additionally, we have created an interactive website (https://db.cngb.org/stomics/hhsta/) where the analyzed data can be freely downloaded.
